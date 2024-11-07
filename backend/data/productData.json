@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Apple",
+    "price": 2.5,
+    "description": "Fresh and crispy red apples.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "fileName": "apple.jpg"
+      }
+    ],
+    "category": "Fruits",
+    "seller": "Farm Fresh",
+    "stock": 100,
+    "numOfReviews": 25,
+    "reviews": [
+      {
+        "name": "John Doe",
+        "rating": "5",
+        "comment": "Excellent quality and taste!"
+      },
+      {
+        "name": "Jane Smith",
+        "rating": "4",
+        "comment": "Very fresh, but a bit expensive."
+      }
+    ],
+    "createdAt": "2024-11-07T10:00:00Z"
+  },
+  {
+    "name": "Whole Milk",
+    "price": 1.2,
+    "description": "Fresh whole milk with a rich, creamy taste.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "fileName": "whole_milk.jpg"
+      }
+    ],
+    "category": "Dairy",
+    "seller": "DairyFarm",
+    "stock": 200,
+    "numOfReviews": 50,
+    "reviews": [
+      {
+        "name": "Alice Cooper",
+        "rating": "5",
+        "comment": "Best milk I've ever had!"
+      },
+      {
+        "name": "Bob Green",
+        "rating": "4",
+        "comment": "Good milk, would prefer a bigger carton."
+      }
+    ],
+    "createdAt": "2024-11-05T14:30:00Z"
+  },
+  {
+    "name": "Lays Classic Chips",
+    "price": 1.99,
+    "description": "Crispy potato chips with a classic salty taste.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "fileName": "lays_chips.jpg"
+      }
+    ],
+    "category": "Snacks",
+    "seller": "Lays Inc.",
+    "stock": 150,
+    "numOfReviews": 100,
+    "reviews": [
+      {
+        "name": "Charlie Brown",
+        "rating": "4",
+        "comment": "Nice chips, but could use more flavor."
+      },
+      {
+        "name": "Sandy Ray",
+        "rating": "5",
+        "comment": "Perfectly crunchy and salty."
+      }
+    ],
+    "createdAt": "2024-10-28T11:00:00Z"
+  },
+  {
+    "name": "Dawn Dish Soap",
+    "price": 3.5,
+    "description": "Powerful dish soap that cuts through grease.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "fileName": "dawn_dish_soap.jpg"
+      }
+    ],
+    "category": "Household Essentials",
+    "seller": "Procter & Gamble",
+    "stock": 50,
+    "numOfReviews": 60,
+    "reviews": [
+      {
+        "name": "Linda Grey",
+        "rating": "5",
+        "comment": "Great for cleaning and doesn’t dry out my hands."
+      },
+      {
+        "name": "Michael Clark",
+        "rating": "4",
+        "comment": "Works well, but the scent is too strong."
+      }
+    ],
+    "createdAt": "2024-09-15T08:00:00Z"
+  },
+  {
+    "name": "Tropicana Orange Juice",
+    "price": 3.0,
+    "description": "100% pure orange juice with no added sugar.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "fileName": "tropicana_orange_juice.jpg"
+      }
+    ],
+    "category": "Beverages",
+    "seller": "Tropicana",
+    "stock": 250,
+    "numOfReviews": 120,
+    "reviews": [
+      {
+        "name": "Emily Davis",
+        "rating": "5",
+        "comment": "Refreshing and natural taste, love it!"
+      },
+      {
+        "name": "James Wilson",
+        "rating": "5",
+        "comment": "Best orange juice ever. Taste just like fresh oranges."
+      }
+    ],
+    "createdAt": "2024-08-10T09:00:00Z"
+  }
+]
